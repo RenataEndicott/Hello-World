@@ -1,2 +1,2 @@
-# Hello World
- My First Versioned Repository
+# Hello, World!
+ My First Versioned Repository.
